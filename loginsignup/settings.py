@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#7ep%zbb22yhi(0mv8=94v9p&m$q2xt8-qfh+01g36mj$c2v)g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['asadfurqan18.pythonanywhere.com', 'http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['asadfurqan18.pythonanywhere.com', 'http://127.0.0.1:8000/', 'https://firstdjangoproject.vercel.app/']
 
 
 # Application definition
